@@ -1,6 +1,6 @@
 ### TWITTER CLONE
 
-## Description
+# Description
 
     The main goal of this project is to create a simple version of twitter for learning purposes, which means that this is not a "real"    personal project, so I didn't spend a lot of time thinking about a especial feature that distinguishes this project from others or any other aspect of a real social media. It's just a simple version of a twitter where you can post and comment on posts and also use what any social media pretty much has to offer.
 
@@ -8,7 +8,7 @@
 
 
 
-## Features
+# Features
 
     - User registration and login
     - Post creation and deletion
@@ -20,7 +20,7 @@
     - User authentication and authorization
     - Password encryption and validation
 
-## Descrição
+# Descrição
 
     O principal objetivo deste projeto é criar uma versão simples do Twitter para fins de aprendizagem, o que significa que este não é um projeto "real"   pessoal, então não gastei muito tempo pensando em uma característica especial que distingue este projeto de outros ou qualquer outro aspecto de uma mídia social real. É apenas uma versão simples de um Twitter onde você pode postar e comentar postagens e também usar o que qualquer mídia social tem a oferecer.
 
@@ -28,7 +28,7 @@
 
 
 
-## Características
+# Características
 
     - Cadastro e login do usuário
     - Pós criação e exclusão
