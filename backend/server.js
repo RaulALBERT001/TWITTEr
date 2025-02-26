@@ -3,6 +3,7 @@ import connectMongoDB from '../db/ConnectMongoDB.js'
 import dotenv from 'dotenv'
 
 import authRoutes from './routes/authRoutes.js'
+import userRoutes from './routes/userRoutes.js'
 import cookieParser from 'cookie-parser'
 
 dotenv.config()
@@ -16,6 +17,7 @@ app.use(express.urlencoded({extended: true}))//to parse form data(urlencoded)
 app.use(cookieParser())//to parse req.cookies
 
 app.use("/api/auth",authRoutes )
+app.use("/api/user", userRoutes)
 
 
 
